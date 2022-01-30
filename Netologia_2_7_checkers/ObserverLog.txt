@@ -1,0 +1,7 @@
+Player 1: Selected Chip D6
+Player 1: Move to C5
+Player 2: Selected Chip E3
+Player 2: Move to D4
+Player 1: Selected Chip C5
+Player 1: Move to E3
+Player 1: Destroy D4
